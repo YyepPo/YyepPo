@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YyepPo
-- 👀 I’m interested in : Game dev,Web dev
-- 🌱 I’m currently learning: UnrealEngine5(game dev), ReactJS(web dev) 
+- 👀 I’m interested in : Game dev
+- 🌱 I’m currently learning: UnrealEngine5(game dev)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
