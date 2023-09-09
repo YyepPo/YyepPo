@@ -3,8 +3,7 @@
 - I'm enthusiast of making fps and third person games. 🕹️
 
 ## Languages & Tools
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-https://i.redd.it/31b2ii8hchi31.jpg
+<img src="https://i.redd.it/31b2ii8hchi31.jpg" width=50 height50 >  <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/2992f7cb-1666-4845-1826-4de5324ee800/public" width=50 height=50> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" widht=50 height=50>
 <!---
 YyepPo/YyepPo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
