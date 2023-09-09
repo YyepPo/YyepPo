@@ -3,7 +3,7 @@
 - I'm enthusiast of making fps and third person games. 🕹️
 
 ## Languages & Tools
-  ![CPPLogo](https://github.com/YyepPo/YyepPo/assets/121578559/d1e5948b-f4bb-41b3-b1b7-b6e3e41d25eb) 
+  ![CPPLogo](https://github.com/YyepPo/YyepPo/assets/121578559/d1e5948b-f4bb-41b3-b1b7-b6e3e41d25eb = 250X250) 
 
 
 <!---
