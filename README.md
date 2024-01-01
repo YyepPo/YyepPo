@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YyepPo
 - 🚀 Unreal Engine 5 C++ Developer 🎮
-- I'm an enthusiast of making first-person shooter (FPS) and third-person games. 🕹️
+- I'm an enthusiast of making first-person shooter and third-person games. 🕹️
 
 
 
