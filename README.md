@@ -1,29 +1,6 @@
 - 👋 Hi, I’m @YyepPo
 - 🚀 Unreal Engine 5 Blueprint & C++ Developer 🎮
 - I'm an enthusiast of making first-person shooter and third-person games. 🕹️
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LinkedIn Link</title>
-    <style>
-        .linkedin-link {
-            display: flex;
-            align-items: center;
-        }
-        .linkedin-link img {
-            margin-left: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="linkedin-link">
-        My LinkedIn
-        <a href="https://www.linkedin.com/in/enespa%C3%A7arizi/">
-            <img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" width="50" height="50" alt="LinkedIn">
-        </a>
-    </div>
-</body>
-
 
 ## Languages & Tools
 <img src="https://i.redd.it/31b2ii8hchi31.jpg" width=50 height50 >  <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/2992f7cb-1666-4845-1826-4de5324ee800/public" width=50 height=50> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" widht=50 height=50> 
