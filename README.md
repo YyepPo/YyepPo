@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @YyepPo
 - 🚀 Unreal Engine 5 Blueprint & C++ Developer 🎮
 - I'm an enthusiast of making first-person shooter and third-person games. 🕹️
-
+- My LinkedIn <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/enespa%C3%A7arizi/)">
+    <img src="https://i.redd.it/31b2ii8hchi31.jpg" width="50" height="50"> </a>
 
 
 ## Languages & Tools
